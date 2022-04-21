@@ -8,18 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "Phoenix/1.0.0": {
         "dependencies": {
-          "HtmlAgilityPack": "1.11.42",
+          "CommandLineParser": "2.8.0",
           "System.Windows.Forms": "5.0.0.0"
         },
         "runtime": {
           "Phoenix.dll": {}
         }
       },
-      "HtmlAgilityPack/1.11.42": {
+      "CommandLineParser/2.8.0": {
         "runtime": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {
-            "assemblyVersion": "1.11.42.0",
-            "fileVersion": "1.11.42.0"
+          "lib/netstandard2.0/CommandLine.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
           }
         }
       },
@@ -185,12 +185,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "HtmlAgilityPack/1.11.42": {
+    "CommandLineParser/2.8.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LDc1bEfF14EY2DZzak4xvzWvbpNXK3vi1u0KQbBpLUN4+cx/VrvXhgCAMSJhSU5vz0oMfW9JZIR20vj/PkDHPA==",
-      "path": "htmlagilitypack/1.11.42",
-      "hashPath": "htmlagilitypack.1.11.42.nupkg.sha512"
+      "sha512": "sha512-eco2HlKQBY4Joz9odHigzGpVzv6pjsXnY5lziioMveQxr+i2Z7xYcIOMeZTgYiqnMtMAbXMXsVhrNfWO5vJS8Q==",
+      "path": "commandlineparser/2.8.0",
+      "hashPath": "commandlineparser.2.8.0.nupkg.sha512"
     },
     "System.Windows.Forms/5.0.0.0": {
       "type": "reference",
